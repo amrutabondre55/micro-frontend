@@ -2,6 +2,14 @@ Here are **5 very common interview questions** based **exactly on the code you s
 
 ---
 
+**Simple Interview Answer:**
+
+> **Micro frontend** is an architecture where a large frontend application is broken into **small, independent frontend applications** that are developed, deployed, and maintained separately, and then combined together at runtime—similar to microservices on the backend.
+
+**Simple Interview Answer:**
+
+> **Microservices** is an architectural style where a large application is broken into **small, independent services**, each responsible for a specific business functionality. Every service is developed, deployed, and scaled independently and communicates with other services through APIs (usually HTTP/REST or messaging).
+
 ## 1️⃣ How does a micro frontend expose its component to the container app?
 
 **Answer:**
